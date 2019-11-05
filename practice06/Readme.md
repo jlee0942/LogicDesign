@@ -38,7 +38,10 @@ assign       six_digit_seg = { seg_left, seg_right, seg_left, seg_right, seg_lef
 
 
 ### **FPGA 동작 사진 (3개- 일반, Q1, Q2)**
+
 ![](https://github.com/jlee0942/LogicDesign/blob/master/practice06/KakaoTalk_20191105_202002598.jpg)
+![](https://github.com/jlee0942/LogicDesign/blob/master/practice06/KakaoTalk_20191105_202003121.jpg)
+![](https://github.com/jlee0942/LogicDesign/blob/master/practice06/KakaoTalk_20191105_202003619.jpg)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
