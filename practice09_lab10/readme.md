@@ -35,7 +35,8 @@ Idle 에서 항상 leadercode 기다림,
 
 
 
- 결과 ### **Top Module Waveform 검증**
+ 결과 
+### **Top Module Waveform 검증**
 ![](https://github.com/jlee0942/LogicDesign/blob/master/practice09_lab10/KakaoTalk_20191126_182425768.png)
 
 ### **FPGA 동작 사진 (3개- 일반, Q1, Q2)**
